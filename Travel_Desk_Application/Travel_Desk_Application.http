@@ -1,0 +1,6 @@
+@Travel_Desk_Application_HostAddress = http://localhost:5046
+
+GET {{Travel_Desk_Application_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
